@@ -1,0 +1,11 @@
+prefix=/home/figa/Documents/Programming/VSCode/Metagenomics-Course/env
+exec_prefix=/home/figa/Documents/Programming/VSCode/Metagenomics-Course/env
+libdir=/home/figa/Documents/Programming/VSCode/Metagenomics-Course/env/lib
+includedir=/home/figa/Documents/Programming/VSCode/Metagenomics-Course/env/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.41.2
+Cflags: -I${includedir}/uuid
+Libs.private:  -lpthread
+Libs: -L${libdir} -luuid

@@ -1,0 +1,37 @@
+{
+    "arch": null,
+    "build": "h4df99d1_100",
+    "build_number": 100,
+    "build_string": "h4df99d1_100",
+    "channel": "conda-forge",
+    "constrains": [],
+    "depends": [
+        "python_abi * *_cp313",
+        "cpython 3.13.7.*"
+    ],
+    "extracted_package_dir": "/home/figa/.mamba/pkgs/python-gil-3.13.7-h4df99d1_100",
+    "files": [],
+    "fn": "python-gil-3.13.7-h4df99d1_100.conda",
+    "license": "Python-2.0",
+    "link": {
+        "source": "/home/figa/.mamba/pkgs/python-gil-3.13.7-h4df99d1_100",
+        "type": 1
+    },
+    "md5": "47a123ca8e727d886a2c6d0c71658f8c",
+    "name": "python-gil",
+    "noarch": "generic",
+    "package_tarball_full_path": "/home/figa/.mamba/pkgs/python-gil-3.13.7-h4df99d1_100.tar.bz2",
+    "paths_data": {
+        "paths": [],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "",
+    "sha256": "109794a80cf31450903522e2613b6d760ae4655e65d6fff68467934fbe297ea1",
+    "size": 48178,
+    "subdir": "noarch",
+    "timestamp": 1756909461,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/noarch/python-gil-3.13.7-h4df99d1_100.conda",
+    "version": "3.13.7"
+}
