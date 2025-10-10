@@ -86,3 +86,9 @@
 +https://conda.anaconda.org/conda-forge/noarch::jupyter_client-8.6.3-pyhd8ed1ab_1
 +https://conda.anaconda.org/conda-forge/noarch::ipykernel-6.30.1-pyh82676e8_0
 # update specs: ["ipykernel"]
+==> 2025-10-10 19:30:32 <==
+# cmd: /usr/bin/mamba install -c bioconda fastqc
+# conda version: 3.8.0
++https://conda.anaconda.org/bioconda/linux-64::java-jdk-8.0.92-1
++https://conda.anaconda.org/bioconda/linux-64::fastqc-0.11.5-1
+# update specs: ["fastqc"]
