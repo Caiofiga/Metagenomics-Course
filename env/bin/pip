@@ -1,4 +1,4 @@
-#!/home/figa/Documents/Programming/VSCode/Metagenomics-Course/env/bin/python3.13
+#!/home/figa/Documents/Programming/VSCode/Metagenomics-Course/env/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
