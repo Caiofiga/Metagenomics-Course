@@ -124,3 +124,17 @@
 # conda version: 3.8.0
 +https://conda.anaconda.org/bioconda/linux-64::bcftools-1.3-h577a1d6_9
 # update specs: ["bcftools", "htslib"]
+==> 2025-10-10 21:41:48 <==
+# cmd: mamba install -c bioconda -c conda-forge openjdk=11 fastqc snpeff bwa freebayes cutadapt samtools bedtools -y
+# conda version: 3.8.0
+-https://conda.anaconda.org/conda-forge/linux-64::openjdk-24.0.2-h5755bd7_0
++https://conda.anaconda.org/bioconda/linux-64::bedtools-2.31.1-h13024bc_3
++https://conda.anaconda.org/conda-forge/linux-64::openjdk-11.0.27-h5ddf6bc_0
++https://conda.anaconda.org/bioconda/noarch::snpeff-5.3.0a-hdfd78af_0
+# update specs: ["openjdk=11", "fastqc", "snpeff", "bwa", "freebayes", "cutadapt", "samtools", "bedtools"]
+==> 2025-10-10 21:50:15 <==
+# cmd: mamba install -c bioconda -c conda-forge openjdk=21 fastqc snpeff bwa freebayes cutadapt samtools bedtools -y
+# conda version: 3.8.0
+-https://conda.anaconda.org/conda-forge/linux-64::openjdk-11.0.27-h5ddf6bc_0
++https://conda.anaconda.org/conda-forge/linux-64::openjdk-21.0.8-ha48796e_0
+# update specs: ["openjdk=21", "fastqc", "snpeff", "bwa", "freebayes", "cutadapt", "samtools", "bedtools"]
