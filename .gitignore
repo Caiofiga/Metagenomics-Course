@@ -1,4 +1,10 @@
-env/
+env/*
 aula-6/*
 !aula-6/raw/
 !aula-6/*.ipynb
+aula-7/*
+!aula-7/raw/
+!aula-7/*.ipynb
+aula-8/*
+!aula-8/raw/
+!aula-8/*.ipynb

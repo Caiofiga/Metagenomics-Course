@@ -7,7 +7,7 @@ includedir=${prefix}/include
 
 Name: SQLite
 Description: SQL database engine
-Version: 3.50.4
+Version: 3.46.0
 Libs: -L${libdir} -lsqlite3
-Libs.private: -lm -lz -ldl -lpthread -L/home/figa/Documents/Programming/VSCode/Metagenomics-Course/env/lib -licui18n -licuuc -licudata
+Libs.private: -lz -lm -ldl -lpthread 
 Cflags: -I${includedir}

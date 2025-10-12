@@ -109,6 +109,7 @@ enum {
      */
     USET_ADD_CASE_MAPPINGS = 4,
 
+#ifndef U_HIDE_DRAFT_API
     /**
      * Enable case insensitive matching.
      * Same as USET_CASE_INSENSITIVE but using only Simple_Case_Folding (scf) mappings,
@@ -119,9 +120,10 @@ enum {
      * regular expression implementations where only Simple_Case_Folding mappings are used,
      * such as in ECMAScript (JavaScript) regular expressions.
      *
-     * @stable ICU 73
+     * @draft ICU 73
      */
     USET_SIMPLE_CASE_INSENSITIVE = 6
+#endif  // U_HIDE_DRAFT_API
 };
 
 /**

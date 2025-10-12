@@ -25,8 +25,10 @@
 U_NAMESPACE_BEGIN
 
 // Forward declaration:
-namespace number::impl {
+namespace number {
+namespace impl {
 class SimpleModifier;
+}
 }
 
 /**
