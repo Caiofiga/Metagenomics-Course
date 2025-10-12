@@ -1,1 +1,4 @@
 env/
+aula-6/*
+!aula-6/raw/
+!aula-6/*.ipynb
