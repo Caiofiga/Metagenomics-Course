@@ -14,3 +14,5 @@ aula-10/*
 aula-9/*
 !aula-9/raw/
 !aula-9/*.ipynb
+Atividade_Complementar/*
+!Atividade_Complementar/*.ipynb
