@@ -8,3 +8,9 @@ aula-7/*
 aula-8/*
 !aula-8/raw/
 !aula-8/*.ipynb
+aula-10/*
+!aula-10/raw/
+!aula-10/*.ipynb
+aula-9/*
+!aula-9/raw/
+!aula-9/*.ipynb

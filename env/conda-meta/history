@@ -334,3 +334,27 @@
 # cmd: mamba install -c bioconda -c conda-forge fastqc bwa gatk4 cutadapt samtools bedtools ensembl-vep=115 -y
 # conda version: 3.8.0
 # update specs: ["fastqc", "bwa", "gatk4", "cutadapt", "samtools", "bedtools", "ensembl-vep=115"]
+==> 2025-10-12 14:45:12 <==
+# cmd: mamba install -c bioconda -c conda-forge fastqc bwa gatk4 cutadapt samtools bedtools ensembl-vep=115 -y
+# conda version: 3.8.0
+# update specs: ["fastqc", "bwa", "gatk4", "cutadapt", "samtools", "bedtools", "ensembl-vep=115"]
+==> 2025-10-12 15:08:30 <==
+# cmd: mamba install -c bioconda -c conda-forge fastqc bwa cutadapt samtools kraken2 krona spades -y
+# conda version: 3.8.0
++https://conda.anaconda.org/bioconda/linux-64::spades-4.0.0-h6dccd9a_3
++https://conda.anaconda.org/bioconda/linux-64::ncbi-vdb-3.2.1-h9948957_0
++https://conda.anaconda.org/bioconda/linux-64::rpsbproc-0.5.0-h6a68c12_1
++https://conda.anaconda.org/bioconda/linux-64::popt-1.16-1
++https://conda.anaconda.org/bioconda/linux-64::perl-pathtools-3.75-pl5321hec16e2b_3
++https://conda.anaconda.org/conda-forge/linux-64::curl-8.8.0-he654da7_1
++https://conda.anaconda.org/conda-forge/linux-64::xxhash-0.8.2-hd590300_0
++https://conda.anaconda.org/conda-forge/linux-64::tar-1.35-h3b78370_0
++https://conda.anaconda.org/conda-forge/linux-64::wget-1.21.4-hda4d442_0
++https://conda.anaconda.org/conda-forge/linux-64::rsync-3.3.0-he6cb5fe_0
++https://conda.anaconda.org/bioconda/noarch::perl-io-zlib-1.15-pl5321hdfd78af_1
++https://conda.anaconda.org/bioconda/noarch::krona-2.8.1-pl5321hdfd78af_1
++https://conda.anaconda.org/bioconda/noarch::perl-archive-tar-3.04-pl5321hdfd78af_0
++https://conda.anaconda.org/bioconda/linux-64::entrez-direct-22.4-he881be0_0
++https://conda.anaconda.org/bioconda/linux-64::blast-2.16.0-hc155240_3
++https://conda.anaconda.org/bioconda/linux-64::kraken2-2.1.3-pl5321hdcf5f25_3
+# update specs: ["fastqc", "bwa", "cutadapt", "samtools", "kraken2", "krona", "spades"]
